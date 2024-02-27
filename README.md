@@ -227,3 +227,10 @@ environment.run(steps=10)
 print(environment.status)
 print(agent.performance)
 ~~~
+
+### Output:
+![image](https://github.com/Loknaath-sec/19AI405-Fun_of_AI-ExpNo1/assets/145742558/dc6db886-6dbb-41e2-8fce-c0d42978a0ad)
+<br>
+### Result:
+Thus,the program for vaccum cleaner AI agent is executed successfully.
+

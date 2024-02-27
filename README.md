@@ -40,3 +40,6 @@
 <p>Clean the room and Search for dirt and suck it.</p>
 <h3>STEP 5:</h3>
 <p>Measure the performance parameters: For each cleaning performance incremented, for each movement performance decremented</p>
+<br>
+
+<h3>CODE:</h3>h3

@@ -1,10 +1,10 @@
-<h1>ExpNo 1 :Developing AI Agent with PEAS Description</h1>
+<h1>ExpNo 1 : Developing AI Agent with PEAS Description</h1>
 <h3>Name: Loknaath P</h3>
 <h3>Register Number: 212223240080</h3>
 
 
 <h3>AIM:</h3>
-<br>
+
 <p>To find the PEAS description for the given AI problem and develop an AI agent.</p>
 <br>
 <h3>Theory</h3>
